@@ -3,12 +3,12 @@
 ### 使用方法:
 
 
-```
-composer require sheldonchow2020/9up:dev-master
+```bash
+$ composer require sheldonchow2020/9up:dev-master
 ```
 
 
-```
+```php
 <?php
 
 require ('vendor/autoload.php');
