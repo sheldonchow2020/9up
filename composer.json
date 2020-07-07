@@ -1,0 +1,19 @@
+{
+    "name": "sheldonchow2020/9up",
+    "description": "9up",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhouxiaodeng",
+            "email": "sheldonchow@dingtalk.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "NineUp\\": "src/"
+        }
+    }
+}
